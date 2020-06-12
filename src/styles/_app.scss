@@ -15,10 +15,14 @@
   border-width: 0.25rem;
   box-shadow: 4px 4px 8px 0 rgba(0, 0, 0, 0.2);
   display: inline-block;
-  background-color: blue;
+  background-color: white;
   padding: 1rem;
   margin: 0.5rem;
   text-align: center;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  color: black;
 
   @media screen and (max-width: 800px) {
     padding: 0.5rem;
