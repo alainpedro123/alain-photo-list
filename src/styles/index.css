@@ -1,0 +1,7 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background: linear-gradient(to left, rgb(42, 82, 7)0%, rgba(0,128,128,1)100%);
+  color: white;
+}
